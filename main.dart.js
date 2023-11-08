@@ -52752,7 +52752,7 @@ i.a=null
 q=3
 h=t.N
 s=6
-return A.t(n.bn("POST",A.bs(u.q,0,null),A.V(["Content-Type","application/json","Authorization","Bearer "+d,"Origin"," oracle.datasintese.com"],h,h),B.j.bz(A.V(["id_produto","null","marca","null","nome_produto","null","ativo","1","destaque","1","id_categoria","null","order_by","ativo","asc_desc","ASC","limit","10","offset","0"],h,h)),null),$async$rK)
+return A.t(n.bn("POST",A.bs(u.q,0,null),A.V(["Content-Type","application/json","Authorization","Bearer "+d,"Origin"," oracle.datasintese.com"],h,h),B.j.bz(A.V(["id_produto","null","marca","null","nome_produto","null","id_funcionalidade","null","id_funcionalidade_valor","null","ativo","1","destaque","1","id_categoria","null","order_by","ativo","asc_desc","ASC","limit","10","offset","0"],h,h)),null),$async$rK)
 case 6:l=f
 i.a=l
 new A.bH().bG(0,new A.aj3(i),new A.aj4(i,b),new A.aj5(),new A.aj6(i),new A.aj7(i,c),new A.aj8(a),l.b)
@@ -52790,7 +52790,7 @@ i.a=null
 q=3
 h=t.N
 s=6
-return A.t(n.bn("POST",A.bs(u.q,0,null),A.V(["Content-Type","application/json","Authorization","Bearer "+a1,"Origin"," oracle.datasintese.com"],h,h),B.j.bz(A.V(["id_produto","null","marca","null","nome_produto",b,"ativo",a,"destaque","null","id_categoria","null","order_by",a0,"asc_desc",f,"limit","1000","offset","0"],h,h)),null),$async$wW)
+return A.t(n.bn("POST",A.bs(u.q,0,null),A.V(["Content-Type","application/json","Authorization","Bearer "+a1,"Origin"," oracle.datasintese.com"],h,h),B.j.bz(A.V(["id_produto","null","marca","null","nome_produto",b,"ativo",a,"destaque","null","id_categoria","null","id_funcionalidade","null","id_funcionalidade_valor","null","order_by",a0,"asc_desc",f,"limit","1000","offset","0"],h,h)),null),$async$wW)
 case 6:l=a3
 i.a=l
 new A.bH().bG(0,new A.aj9(i),new A.aja(i,d),new A.ajb(),new A.ajc(i),new A.ajd(i,e),new A.aje(c),l.b)
@@ -59787,7 +59787,7 @@ o=A.b9Y(p,!0,!0,!0)
 p=p.length
 n=!0
 n=n?B.jF:l
-return A.cm(l,l,A.axh(A.beT(A.d(l,A.a_(A.a([s,A.B(A.e9(A.a_(A.a([i,j,k,A.d(l,A.a_(A.a([q,A.d(l,new A.Rz(B.Fb,o,l,B.aR,!1,l,l,n,!0,l,p,B.N,B.ox,l,B.B,l),B.c,B.o,l,l,l,l,l,l,l,l,l,l)],r),B.e,B.h,B.d),B.c,l,l,l,l,l,l,B.ra,l,l,l,l),B.c2],r),B.e,B.h,B.d),l,l),1)],r),B.e,B.h,B.d),B.c,B.l,l,l,l,l,l,l,l,l,l,l),m.gar2()),new A.azL(m),new A.azM(),new A.azN(),new A.azD(),new A.azE(),new A.azF()),l,l)},
+return A.cm(l,l,A.axh(A.beT(A.d(l,A.a_(A.a([s,A.B(A.e9(A.a_(A.a([i,j,k,A.d(l,A.a_(A.a([q,A.d(l,new A.Rz(B.Fb,o,l,B.aR,!1,l,l,n,!0,l,p,B.N,B.ox,l,B.B,l),B.c,B.J,l,l,l,l,l,l,l,l,l,l)],r),B.e,B.h,B.d),B.c,l,l,l,l,l,l,B.ra,l,l,l,l),B.c2],r),B.e,B.h,B.d),l,l),1)],r),B.e,B.h,B.d),B.c,B.l,l,l,l,l,l,l,l,l,l,l),m.gar2()),new A.azL(m),new A.azM(),new A.azN(),new A.azD(),new A.azE(),new A.azF()),l,l)},
 ZA(a){var s=null
 return A.K(!1,s,!0,A.d(s,A.h5(A.a69(a.f),B.pQ,s,s),B.c,s,s,s,s,s,s,B.m,s,s,s,s),s,!0,s,s,s,s,s,s,s,s,s,new A.azV(this,a),s,s,s,s)}}
 A.aA3.prototype={
@@ -61888,7 +61888,7 @@ i=f.y
 h=i?A.d(e,B.dd,B.c,e,e,e,e,e,e,B.cm,e,e,e,e):A.d(e,e,B.c,e,e,e,e,e,e,e,e,e,e,e)
 i=i?A.c7(B.y,!0,e,A.K(!1,e,!0,A.d(e,A.l(A.a([A.aR(A.l(B.On,B.e,B.x,B.d),e,24),B.ac,A.u("Debug",e,e,e,e,A.aj(B.o,16,B.G),e,e)],d),B.e,B.h,B.d),B.c,e,e,e,e,e,e,e,B.dC,e,e,e),e,!0,e,e,e,e,e,e,e,e,e,new A.aKC(),e,e,e,e),B.c,B.l,0,e,e,e,e,e,B.aV):A.d(e,e,B.c,e,e,e,e,e,e,e,e,e,e,e)
 g=f.y?A.d(e,B.dd,B.c,e,e,e,e,e,e,B.cm,e,e,e,e):A.d(e,e,B.c,e,e,e,e,e,e,e,e,e,e,e)
-g=A.d(e,A.a_(A.a([c,b,A.B(new A.b9(B.I,e,B.K,B.B,A.a([A.e9(A.a_(A.a([a,a0,r,s,q,p,o,n,m,l,k,j,h,i,g,B.c2,A.l(A.a([B.V6,A.B(A.u("v 0.0.45",e,e,e,e,B.WD,e,e),1)],d),B.e,B.h,B.d),B.oO],d),B.e,B.h,B.d),e,e),A.bU(0,A.c7(B.y,!0,e,A.K(!1,e,!0,A.d(e,A.l(A.a([A.B(A.u("Precisa de ajuda?",e,e,e,e,A.aj(B.o,16,B.v),e,e),1)],d),B.e,B.h,B.d),B.c,e,e,B.DN,e,e,e,B.IN,B.IJ,e,e,e),e,!0,e,e,e,e,e,e,e,e,e,new A.aKD(a1),e,e,e,e),B.c,B.l,0,e,e,e,e,e,B.aV),e,e,0,0,e,e)],d),e),1)],d),B.e,B.h,B.d),B.c,B.l,e,e,e,e,e,e,e,e,e,e)
+g=A.d(e,A.a_(A.a([c,b,A.B(new A.b9(B.I,e,B.K,B.B,A.a([A.e9(A.a_(A.a([a,a0,r,s,q,p,o,n,m,l,k,j,h,i,g,B.c2,A.l(A.a([B.V6,A.B(A.u("v 0.0.46",e,e,e,e,B.WD,e,e),1)],d),B.e,B.h,B.d),B.oO],d),B.e,B.h,B.d),e,e),A.bU(0,A.c7(B.y,!0,e,A.K(!1,e,!0,A.d(e,A.l(A.a([A.B(A.u("Precisa de ajuda?",e,e,e,e,A.aj(B.o,16,B.v),e,e),1)],d),B.e,B.h,B.d),B.c,e,e,B.DN,e,e,e,B.IN,B.IJ,e,e,e),e,!0,e,e,e,e,e,e,e,e,e,new A.aKD(a1),e,e,e,e),B.c,B.l,0,e,e,e,e,e,B.aV),e,e,0,0,e,e)],d),e),1)],d),B.e,B.h,B.d),B.c,B.l,e,e,e,e,e,e,e,e,e,e)
 return A.cm(e,e,A.axh(new A.b9(B.I,e,B.K,B.B,A.a([g,f.at?B.c9:A.d(e,e,B.c,e,e,e,e,e,e,e,e,e,e,e)],d),e),new A.aKv(f),e,e,e,e,e),e,e)},
 A7(){new A.bA(new A.br(),new A.bt()).l0().V(new A.aKK(this),t.P)}}
 A.aKO.prototype={
