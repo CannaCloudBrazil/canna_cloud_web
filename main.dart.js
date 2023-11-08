@@ -61503,7 +61503,7 @@ i=f.y
 h=i?A.d(e,B.d8,B.c,e,e,e,e,e,e,B.cm,e,e,e,e):A.d(e,e,B.c,e,e,e,e,e,e,e,e,e,e,e)
 i=i?A.c6(B.y,!0,e,A.M(!1,e,!0,A.d(e,A.l(A.a([A.aW(A.l(B.O8,B.e,B.x,B.d),e,24),B.ab,A.u("Debug",e,e,e,e,A.aj(B.o,16,B.G),e,e)],d),B.e,B.h,B.d),B.c,e,e,e,e,e,e,e,B.dz,e,e,e),e,!0,e,e,e,e,e,e,e,e,e,new A.aJH(),e,e,e,e),B.c,B.l,0,e,e,e,e,e,B.aU):A.d(e,e,B.c,e,e,e,e,e,e,e,e,e,e,e)
 g=f.y?A.d(e,B.d8,B.c,e,e,e,e,e,e,B.cm,e,e,e,e):A.d(e,e,B.c,e,e,e,e,e,e,e,e,e,e,e)
-g=A.d(e,A.a_(A.a([c,b,A.B(new A.b8(B.I,e,B.K,B.B,A.a([A.e7(A.a_(A.a([a,a0,r,s,q,p,o,n,m,l,k,j,h,i,g,B.c2,A.l(A.a([B.UP,A.B(A.u("v 0.0.40",e,e,e,e,B.Wl,e,e),1)],d),B.e,B.h,B.d),B.oF],d),B.e,B.h,B.d),e,e),A.bU(0,A.c6(B.y,!0,e,A.M(!1,e,!0,A.d(e,A.l(A.a([A.B(A.u("Precisa de ajuda?",e,e,e,e,A.aj(B.o,16,B.v),e,e),1)],d),B.e,B.h,B.d),B.c,e,e,B.Dz,e,e,e,B.IB,B.Ix,e,e,e),e,!0,e,e,e,e,e,e,e,e,e,new A.aJI(a1),e,e,e,e),B.c,B.l,0,e,e,e,e,e,B.aU),e,e,0,0,e,e)],d),e),1)],d),B.e,B.h,B.d),B.c,B.l,e,e,e,e,e,e,e,e,e,e)
+g=A.d(e,A.a_(A.a([c,b,A.B(new A.b8(B.I,e,B.K,B.B,A.a([A.e7(A.a_(A.a([a,a0,r,s,q,p,o,n,m,l,k,j,h,i,g,B.c2,A.l(A.a([B.UP,A.B(A.u("v 0.0.41",e,e,e,e,B.Wl,e,e),1)],d),B.e,B.h,B.d),B.oF],d),B.e,B.h,B.d),e,e),A.bU(0,A.c6(B.y,!0,e,A.M(!1,e,!0,A.d(e,A.l(A.a([A.B(A.u("Precisa de ajuda?",e,e,e,e,A.aj(B.o,16,B.v),e,e),1)],d),B.e,B.h,B.d),B.c,e,e,B.Dz,e,e,e,B.IB,B.Ix,e,e,e),e,!0,e,e,e,e,e,e,e,e,e,new A.aJI(a1),e,e,e,e),B.c,B.l,0,e,e,e,e,e,B.aU),e,e,0,0,e,e)],d),e),1)],d),B.e,B.h,B.d),B.c,B.l,e,e,e,e,e,e,e,e,e,e)
 return A.cm(e,e,A.awt(new A.b8(B.I,e,B.K,B.B,A.a([g,f.at?B.ca:A.d(e,e,B.c,e,e,e,e,e,e,e,e,e,e,e)],d),e),new A.aJA(f),e,e,e,e,e),e,e)},
 zU(){new A.bz(new A.br(),new A.bt()).kY().V(new A.aJP(this),t.P)}}
 A.aJT.prototype={
