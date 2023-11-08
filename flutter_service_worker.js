@@ -59,7 +59,7 @@ const RESOURCES = {
 "assets/assets/test/receita.jpg": "1907f031ba861b2181337fae8adc053a",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "f09ff3eda2381de8554a0a13da719c17",
+"assets/NOTICES": "5bbc84782a5b1d88c6a89b6f3f0d5084",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
 "assets/packages/fluttertoast/assets/toastify.js": "56e2c9cedd97f10e7e5f1cebd85d53e3",
@@ -73,10 +73,10 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "bd48eeedad0263fb6d4fcbbc2bafba96",
-"/": "bd48eeedad0263fb6d4fcbbc2bafba96",
-"index.html.bak": "7de482be446f724d100f63301e628f3c",
-"main.dart.js": "95fe77c46cc8003697823eb96ac0e754",
+"index.html": "ae4e01990b5eacfe02d36e443a6b426e",
+"/": "ae4e01990b5eacfe02d36e443a6b426e",
+"index.html.bak": "bd48eeedad0263fb6d4fcbbc2bafba96",
+"main.dart.js": "164d5431953624ad01f638b84185f112",
 "manifest.json": "e640841e768177b4639d23ba8eb59f97",
 "version.json": "99eeaccf58ea55e48740054eed75bba2"
 };
