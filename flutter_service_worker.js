@@ -70,8 +70,6 @@ const RESOURCES = {"assets/AssetManifest.bin": "7601f2adc02753f013f7f8b043ae3ef1
 "canvaskit/canvaskit.wasm": "64edb91684bdb3b879812ba2e48dd487",
 "canvaskit/chromium/canvaskit.js": "0ae8bbcc58155679458a0f7a00f66873",
 "canvaskit/chromium/canvaskit.wasm": "f87e541501c96012c252942b6b75d1ea",
-"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
-"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
 "canvaskit/skwasm.js": "87063acf45c5e1ab9565dcf06b0c18b8",
 "canvaskit/skwasm.wasm": "4124c42a73efa7eb886d3400a1ed7a06",
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
@@ -81,10 +79,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "7601f2adc02753f013f7f8b043ae3ef1
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "bf74e6c6264e1f556d960ef3ea0fcacb",
-"/": "bf74e6c6264e1f556d960ef3ea0fcacb",
-"index.html.bak": "449b568247bfffe2ac4aa762c21f4a5c",
-"main.dart.js": "15181f0b80247b5a14c34571ad9e8109",
+"index.html": "686413f0e67429dd0cfad84bd9bd2cd2",
+"/": "686413f0e67429dd0cfad84bd9bd2cd2",
+"main.dart.js": "e431a8cad3578ebcd3bdd61140bdbe33",
 "manifest.json": "e640841e768177b4639d23ba8eb59f97",
 "version.json": "99eeaccf58ea55e48740054eed75bba2"};
 // The application shell files that are downloaded before a service worker can
