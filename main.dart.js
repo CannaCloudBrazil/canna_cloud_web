@@ -60665,6 +60665,7 @@ s.p(new A.amN(s))},
 $S:2}
 A.amN.prototype={
 $0(){var s=this.a
+s.f=1
 s.db=s.ch=!1},
 $S:0}
 A.an9.prototype={
@@ -60697,7 +60698,7 @@ if(r==null)r=d
 else{r=r.b
 if(r==null)r=d
 else{r=r.b
-r=r==null?d:B.c.gH(r).b.split(c)[0]}}if(r==null)r=b
+r=r==null?d:B.c.gH(B.c.gH(r).b.split(c))}}if(r==null)r=b
 p=a0.cx.b.b
 p.toString
 if(B.c.gH(p).b.split(c).length===1)p=b
@@ -62847,7 +62848,7 @@ i=f.y
 h=i?A.c(e,B.dh,B.b,e,e,e,e,e,e,B.cz,e,e,e,e):A.c(e,e,B.b,e,e,e,e,e,e,e,e,e,e,e)
 i=i?A.ca(B.y,!0,e,A.A(!1,e,!0,A.c(e,A.m(A.a([B.W3,B.hl,A.u("Debug",e,e,e,A.ai(B.o,16,B.I),e,e)],d),B.e,B.f,B.d),B.b,e,e,e,e,e,e,e,B.eu,e,e,e),e,!0,e,e,e,e,e,e,e,e,e,new A.aJ0(),e,e,e,e),B.b,B.k,0,e,e,e,e,e,B.b6):A.c(e,e,B.b,e,e,e,e,e,e,e,e,e,e,e)
 g=f.y?A.c(e,B.dh,B.b,e,e,e,e,e,e,B.cz,e,e,e,e):A.c(e,e,B.b,e,e,e,e,e,e,e,e,e,e,e)
-g=A.c(e,A.Y(A.a([c,b,A.v(A.bE(B.N,A.a([A.eb(A.Y(A.a([a,a0,s,r,q,p,o,n,m,l,k,j,h,i,g,B.ca,A.m(A.a([B.W8,A.v(A.u("v 0.0.60 05/12/2023",e,e,e,B.XK,e,e),1)],d),B.e,B.f,B.d),B.mY],d),B.e,B.f,B.d),e),A.c3(0,A.ca(B.y,!0,e,A.A(!1,e,!0,A.c(e,A.m(A.a([A.v(A.u("Precisa de ajuda?",e,e,e,A.ai(B.o,16,B.v),e,e),1)],d),B.e,B.f,B.d),B.b,e,e,B.E6,e,e,e,B.Jf,B.Ja,e,e,e),e,!0,e,e,e,e,e,e,e,e,e,new A.aJ1(a1),e,e,e,e),B.b,B.k,0,e,e,e,e,e,B.b6),e,e,0,0,e,e)],d),B.G,B.R,e),1)],d),B.e,B.f,B.d),B.b,B.k,e,e,e,e,e,e,e,e,e,e)
+g=A.c(e,A.Y(A.a([c,b,A.v(A.bE(B.N,A.a([A.eb(A.Y(A.a([a,a0,s,r,q,p,o,n,m,l,k,j,h,i,g,B.ca,A.m(A.a([B.W8,A.v(A.u("v 0.0.61 05/12/2023",e,e,e,B.XK,e,e),1)],d),B.e,B.f,B.d),B.mY],d),B.e,B.f,B.d),e),A.c3(0,A.ca(B.y,!0,e,A.A(!1,e,!0,A.c(e,A.m(A.a([A.v(A.u("Precisa de ajuda?",e,e,e,A.ai(B.o,16,B.v),e,e),1)],d),B.e,B.f,B.d),B.b,e,e,B.E6,e,e,e,B.Jf,B.Ja,e,e,e),e,!0,e,e,e,e,e,e,e,e,e,new A.aJ1(a1),e,e,e,e),B.b,B.k,0,e,e,e,e,e,B.b6),e,e,0,0,e,e)],d),B.G,B.R,e),1)],d),B.e,B.f,B.d),B.b,B.k,e,e,e,e,e,e,e,e,e,e)
 return A.cm(e,A.auP(A.bE(B.N,A.a([g,f.at?B.bS:A.c(e,e,B.b,e,e,e,e,e,e,e,e,e,e,e)],d),B.G,B.R,e),new A.aIU(f),e,e,e,e,e),e,e)},
 Al(){new A.by(new A.br(),new A.bm()).l0().U(0,new A.aJ8(this),t.P)}}
 A.aJc.prototype={
