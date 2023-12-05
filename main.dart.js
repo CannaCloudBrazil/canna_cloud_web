@@ -58411,7 +58411,7 @@ $0(){},
 $S:1}
 A.alF.prototype={
 $0(){var s=null,r=this.a,q=r.db,p=r.dx,o=r.as<=0?2:1,n=r.dy,m=r.a_z(),l=r.Q,k=r.z,j=r.a_z(),i=r.z,h=r.Q,g=r.ch,f=r.ax
-f=f!=null&&!f?"PAI":"TITULAR"
+f=f!=null&&!f?"VINCULO":"SEM VINCULO"
 r.d.mK("Indispon\xedvel no momento.",g,s,s,s,s,s,s,s,s,s,s,s,s,s,s,f,p,p,s,s,q,o,s,n,s,new A.alB(r),new A.alC(r),s,s,s,s,s,s,s,l,k,m,s,j+i-h)},
 $S:1}
 A.alC.prototype={
@@ -58952,12 +58952,12 @@ s=q.c
 s.toString
 p.a=s
 q.aj()},
-G(a){var s,r=this,q=null,p=A.cB(B.aH,!0,B.k,!0,B.k,B.a15),o=A.a6(a,q,t.w).w,n=t.p,m=A.m(A.a([A.v(A.bg(!1,r.r,B.o,B.Mb,q,q,q,!1,new A.ao0(r),q,q),1)],n),B.e,B.f,B.d),l=A.m(A.a([A.v(A.bg(!1,r.w,B.o,B.LG,q,q,q,!1,new A.ao1(r),q,q),1)],n),B.e,B.f,B.d),k=A.m(A.a([A.v(A.bg(!1,r.y,B.o,B.LA,q,q,q,!1,new A.ao2(r),q,q),1)],n),B.e,B.f,B.d),j=A.m(A.a([A.v(A.bg(!1,r.ax,B.o,B.LQ,q,q,q,!1,new A.ao8(r),q,q),1)],n),B.e,B.f,B.d),i=A.m(A.a([A.v(A.bg(!1,r.ay,B.o,B.Mi,q,q,q,!1,new A.ao9(r),q,q),1)],n),B.e,B.f,B.d),h=A.m(A.a([A.v(A.bg(!1,r.as,B.o,B.Lv,q,q,q,!1,new A.aoa(r),q,q),1)],n),B.e,B.f,B.d),g=A.aW(B.o,1),f=A.m(B.NB,B.e,B.f,B.d),e=r.f.w,d=A.A(!1,q,!0,A.c(q,A.m(A.a([e!=null&&e==="porcentagem"?B.av:B.q4,B.E,B.a1r],n),B.e,B.f,B.d),B.b,q,q,q,q,q,q,q,q,q,q,q),q,!0,q,q,q,q,q,q,q,q,q,new A.aob(r),q,q,q,q)
+G(a){var s,r=this,q=null,p=A.cB(B.aH,!0,B.k,!0,B.k,B.a15),o=A.a6(a,q,t.w).w,n=t.p,m=A.m(A.a([A.v(A.bg(!1,r.r,B.o,B.Mc,q,q,q,!1,new A.ao0(r),q,q),1)],n),B.e,B.f,B.d),l=A.m(A.a([A.v(A.bg(!1,r.w,B.o,B.LH,q,q,q,!1,new A.ao1(r),q,q),1)],n),B.e,B.f,B.d),k=A.m(A.a([A.v(A.bg(!1,r.y,B.o,B.LB,q,q,q,!1,new A.ao2(r),q,q),1)],n),B.e,B.f,B.d),j=A.m(A.a([A.v(A.bg(!1,r.ax,B.o,B.LR,q,q,q,!1,new A.ao8(r),q,q),1)],n),B.e,B.f,B.d),i=A.m(A.a([A.v(A.bg(!1,r.ay,B.o,B.Mi,q,q,q,!1,new A.ao9(r),q,q),1)],n),B.e,B.f,B.d),h=A.m(A.a([A.v(A.bg(!1,r.as,B.o,B.Lv,q,q,q,!1,new A.aoa(r),q,q),1)],n),B.e,B.f,B.d),g=A.aW(B.o,1),f=A.m(B.NB,B.e,B.f,B.d),e=r.f.w,d=A.A(!1,q,!0,A.c(q,A.m(A.a([e!=null&&e==="porcentagem"?B.av:B.q4,B.E,B.a1r],n),B.e,B.f,B.d),B.b,q,q,q,q,q,q,q,q,q,q,q),q,!0,q,q,q,q,q,q,q,q,q,new A.aob(r),q,q,q,q)
 e=r.f.w
 g=A.c(q,A.Y(A.a([f,B.n,A.m(A.a([d,A.A(!1,q,!0,A.c(q,A.m(A.a([e!=null&&e==="valor"?B.av:B.q4,B.E,B.a11],n),B.e,B.f,B.d),B.b,q,q,q,q,q,q,q,q,q,q,q),q,!0,q,q,q,q,q,q,q,q,q,new A.aoc(r),q,q,q,q)],n),B.e,B.W,B.d)],n),B.e,B.f,B.d),B.b,q,q,new A.a8(q,q,g,B.dA,q,q,B.t),q,q,q,q,B.pn,q,q,q)
 f=r.e
 d=t.Bp
-s=A.m(A.a([A.v(A.bg(!1,r.x,B.o,B.M1,q,q,A.a([f],d),!1,new A.aod(r),q,q),1)],n),B.e,B.f,B.d)
+s=A.m(A.a([A.v(A.bg(!1,r.x,B.o,B.M2,q,q,A.a([f],d),!1,new A.aod(r),q,q),1)],n),B.e,B.f,B.d)
 d=A.m(A.a([A.v(A.bg(!1,r.z,B.o,B.Lw,q,q,A.a([f],d),!1,new A.aoe(r),q,q),1)],n),B.e,B.f,B.d)
 f=A.v(A.u("Definir frete gratis",q,q,q,A.ai(B.w,16,B.v),q,q),1)
 f=A.m(A.a([f,r.f.as===1?A.A(!1,q,!0,B.av,q,!0,q,q,q,q,q,q,q,q,q,new A.aof(r),q,q,q,q):A.A(!1,q,!0,B.az,q,!0,q,q,q,q,q,q,q,q,q,new A.ao3(r),q,q,q,q)],n),B.e,B.f,B.d)
@@ -59132,7 +59132,7 @@ a4(){this.ig()
 this.aj()},
 ig(){this.e.jj().U(0,new A.apk(this),t.P)},
 G(a){var s,r,q,p,o,n,m=this,l=null,k=t.p,j=A.cB(A.a([A.a3O(m.w,new A.ap9(m,a))],k),!0,B.k,!0,B.k,B.a0V),i=t.w,h=A.a6(a,l,i).w,g=A.aW(B.x,1)
-g=A.c(l,A.bg(!1,m.d,l,B.LT,l,l,l,!1,new A.apa(),l,l),B.b,l,l,new A.a8(B.k,l,g,B.C,l,l,B.t),l,l,l,B.cV,B.pf,l,l,l)
+g=A.c(l,A.bg(!1,m.d,l,B.LU,l,l,l,!1,new A.apa(),l,l),B.b,l,l,new A.a8(B.k,l,g,B.C,l,l,B.t),l,l,l,B.cV,B.pf,l,l,l)
 s=m.f
 r=A.c(l,l,B.b,B.x,l,l,l,2,l,l,l,l,l,l)
 q=t.fo
@@ -59231,7 +59231,7 @@ if(k.CW)s=B.bS
 else{s=A.a6(a,j,t.w).w
 r=k.w
 q=k.ay.dx
-r=A.c(j,A.u("Documentos necess\xe1rios "+r+"/"+A.e(q!=null&&q.length!==0&&q!=="TITULAR"?"5":4),j,j,j,B.dy,j,j),B.b,j,j,j,j,j,j,j,B.dk,j,j,j)
+r=A.c(j,A.u("Documentos necess\xe1rios "+r+"/"+A.e(q!=null&&q.length!==0&&q!=="SEM VINCULO"?"5":4),j,j,j,B.dy,j,j),B.b,j,j,j,j,j,j,j,B.dk,j,j,j)
 p=k.a0r()
 o=k.a_W()
 n=k.a05()
@@ -60602,12 +60602,12 @@ s=t.p
 n=A.eb(A.m(A.a([o,A.v(A.c(q,m,B.b,q,q,new A.a8(q,q,n,B.C,q,q,B.t),q,q,q,B.l4,B.bG,q,q,q),1)],s),B.ac,B.f,B.d),q)
 return A.cm(p,A.bE(B.N,A.a([n,r.ch?B.bS:A.c(q,q,B.b,q,q,q,q,q,q,q,q,q,q,q)],s),B.G,B.R,q),q,q)},
 tj(){var s=this,r=null,q=t.Bp
-return A.Y(A.a([A.bg(!1,s.r,B.o,B.qe,r,r,A.a([s.ax],q),!1,r,new A.amR(s),r),B.ca,A.bg(!1,s.w,B.o,B.LH,r,s.at,A.a([s.ay],q),!1,r,new A.amS(s),r),B.n,A.A(!1,r,!0,A.c(r,B.B3,B.b,r,r,B.af,r,r,r,B.m,B.m,r,r,r),r,!0,r,r,r,r,r,r,r,r,r,new A.amT(s),r,r,r,r)],t.p),B.e,B.f,B.d)},
+return A.Y(A.a([A.bg(!1,s.r,B.o,B.qe,r,r,A.a([s.ax],q),!1,r,new A.amR(s),r),B.ca,A.bg(!1,s.w,B.o,B.LI,r,s.at,A.a([s.ay],q),!1,r,new A.amS(s),r),B.n,A.A(!1,r,!0,A.c(r,B.B3,B.b,r,r,B.af,r,r,r,B.m,B.m,r,r,r),r,!0,r,r,r,r,r,r,r,r,r,new A.amT(s),r,r,r,r)],t.p),B.e,B.f,B.d)},
 YQ(){var s=this
 s.p(new A.amO(s))
 new A.N8(new A.Li()).am5(s.r.a.a,new A.amP(s),new A.amQ(s))},
 E_(){var s=this,r=null
-return A.Y(A.a([A.bg(!1,s.x,B.o,B.M8,r,r,r,!1,r,r,r),B.ca,A.bg(!1,s.y,B.o,B.LP,r,r,r,!1,r,r,r),B.ca,A.bg(!1,s.z,B.o,B.LR,r,r,r,!1,r,r,r),B.n,A.nX(B.x,B.d_,new A.an9(s),B.a02,s.Q),B.n,A.nX(B.x,B.d_,new A.ana(s),B.a0X,s.as),B.n,A.A(!1,r,!0,A.c(r,B.Ur,B.b,r,r,B.af,r,r,r,B.m,B.m,r,r,r),r,!0,r,r,r,r,r,r,r,r,r,new A.anb(s),r,r,r,r)],t.p),B.e,B.f,B.d)}}
+return A.Y(A.a([A.bg(!1,s.x,B.o,B.M9,r,r,r,!1,r,r,r),B.ca,A.bg(!1,s.y,B.o,B.LQ,r,r,r,!1,r,r,r),B.ca,A.bg(!1,s.z,B.o,B.LS,r,r,r,!1,r,r,r),B.n,A.nX(B.x,B.d_,new A.an9(s),B.a02,s.Q),B.n,A.nX(B.x,B.d_,new A.ana(s),B.a0X,s.as),B.n,A.A(!1,r,!0,A.c(r,B.Ur,B.b,r,r,B.af,r,r,r,B.m,B.m,r,r,r),r,!0,r,r,r,r,r,r,r,r,r,new A.anb(s),r,r,r,r)],t.p),B.e,B.f,B.d)}}
 A.amJ.prototype={
 $0(){var s=this.a
 s.p(new A.amI(s,this.b))},
@@ -60855,7 +60855,7 @@ s.aj()},
 G(a){var s=null,r=A.cB(s,!1,B.k,!0,B.k,B.a0W),q=A.A(!1,s,!0,A.c(s,B.lC,B.b,s,s,s,s,40,s,B.fl,s,s,s,40),s,!0,s,s,s,s,s,s,s,s,s,new A.avf(a),s,s,s,s),p=A.aW(B.x,1),o=t.p
 p=A.eb(A.m(A.a([q,A.v(A.c(s,this.tj(),B.b,s,s,new A.a8(s,s,p,B.C,s,s,B.t),s,s,s,B.l4,B.bG,s,s,s),1)],o),B.ac,B.f,B.d),s)
 return A.cm(r,A.bE(B.N,A.a([p,this.z?B.bS:A.c(s,s,B.b,s,s,s,s,s,s,s,s,s,s,s)],o),B.G,B.R,s),s,s)},
-tj(){var s,r,q=this,p=null,o=A.A(!1,p,!0,A.c(p,B.Un,B.b,p,p,B.af,p,p,p,B.m,B.m,p,p,p),p,!0,p,p,p,p,p,p,p,p,p,new A.avA(q),p,p,p,p),n=q.f,m=A.bg(!1,n,B.o,B.LV,p,p,p,!1,new A.avB(q),p,p),l=q.r,k=q.x
+tj(){var s,r,q=this,p=null,o=A.A(!1,p,!0,A.c(p,B.Un,B.b,p,p,B.af,p,p,p,B.m,B.m,p,p,p),p,!0,p,p,p,p,p,p,p,p,p,new A.avA(q),p,p,p,p),n=q.f,m=A.bg(!1,n,B.o,B.LW,p,p,p,!1,new A.avB(q),p,p),l=q.r,k=q.x
 k=A.bg(!1,l,B.o,A.Bz(p,p,p,p,p,p,p,p,!0,B.eb,p,p,p,p,p,p,p,p,p,p,p,B.eb,p,p,p,p,p,p,p,"Nova senha",p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,A.OV(p,A.hA(k?B.lz:B.lA,B.ab,p,p),new A.avC(q),p,p),p,p,p,p),p,p,p,!k,new A.avD(q),p,p)
 s=q.w
 r=q.y
@@ -61445,7 +61445,7 @@ f.toString
 s=t.w
 f=A.a6(f,i,s).w
 r=A.aW(B.x,1)
-f=A.c(i,A.bg(!1,j.f,i,B.M_,i,i,i,!1,new A.aFk(j),i,i),B.b,i,i,new A.a8(B.k,i,r,B.C,i,i,B.t),i,i,i,B.J0,B.pf,i,i,f.a.a)
+f=A.c(i,A.bg(!1,j.f,i,B.M0,i,i,i,!1,new A.aFk(j),i,i),B.b,i,i,new A.a8(B.k,i,r,B.C,i,i,B.t),i,i,i,B.J0,B.pf,i,i,f.a.a)
 r=t.N
 q=t.fo
 p=q.i("aA.E")
@@ -62847,7 +62847,7 @@ i=f.y
 h=i?A.c(e,B.dh,B.b,e,e,e,e,e,e,B.cz,e,e,e,e):A.c(e,e,B.b,e,e,e,e,e,e,e,e,e,e,e)
 i=i?A.ca(B.y,!0,e,A.A(!1,e,!0,A.c(e,A.m(A.a([B.W3,B.hl,A.u("Debug",e,e,e,A.ai(B.o,16,B.I),e,e)],d),B.e,B.f,B.d),B.b,e,e,e,e,e,e,e,B.eu,e,e,e),e,!0,e,e,e,e,e,e,e,e,e,new A.aJ0(),e,e,e,e),B.b,B.k,0,e,e,e,e,e,B.b6):A.c(e,e,B.b,e,e,e,e,e,e,e,e,e,e,e)
 g=f.y?A.c(e,B.dh,B.b,e,e,e,e,e,e,B.cz,e,e,e,e):A.c(e,e,B.b,e,e,e,e,e,e,e,e,e,e,e)
-g=A.c(e,A.Y(A.a([c,b,A.v(A.bE(B.N,A.a([A.eb(A.Y(A.a([a,a0,s,r,q,p,o,n,m,l,k,j,h,i,g,B.ca,A.m(A.a([B.W8,A.v(A.u("v 0.0.59 04/12/2023",e,e,e,B.XK,e,e),1)],d),B.e,B.f,B.d),B.mY],d),B.e,B.f,B.d),e),A.c3(0,A.ca(B.y,!0,e,A.A(!1,e,!0,A.c(e,A.m(A.a([A.v(A.u("Precisa de ajuda?",e,e,e,A.ai(B.o,16,B.v),e,e),1)],d),B.e,B.f,B.d),B.b,e,e,B.E6,e,e,e,B.Jf,B.Ja,e,e,e),e,!0,e,e,e,e,e,e,e,e,e,new A.aJ1(a1),e,e,e,e),B.b,B.k,0,e,e,e,e,e,B.b6),e,e,0,0,e,e)],d),B.G,B.R,e),1)],d),B.e,B.f,B.d),B.b,B.k,e,e,e,e,e,e,e,e,e,e)
+g=A.c(e,A.Y(A.a([c,b,A.v(A.bE(B.N,A.a([A.eb(A.Y(A.a([a,a0,s,r,q,p,o,n,m,l,k,j,h,i,g,B.ca,A.m(A.a([B.W8,A.v(A.u("v 0.0.60 05/12/2023",e,e,e,B.XK,e,e),1)],d),B.e,B.f,B.d),B.mY],d),B.e,B.f,B.d),e),A.c3(0,A.ca(B.y,!0,e,A.A(!1,e,!0,A.c(e,A.m(A.a([A.v(A.u("Precisa de ajuda?",e,e,e,A.ai(B.o,16,B.v),e,e),1)],d),B.e,B.f,B.d),B.b,e,e,B.E6,e,e,e,B.Jf,B.Ja,e,e,e),e,!0,e,e,e,e,e,e,e,e,e,new A.aJ1(a1),e,e,e,e),B.b,B.k,0,e,e,e,e,e,B.b6),e,e,0,0,e,e)],d),B.G,B.R,e),1)],d),B.e,B.f,B.d),B.b,B.k,e,e,e,e,e,e,e,e,e,e)
 return A.cm(e,A.auP(A.bE(B.N,A.a([g,f.at?B.bS:A.c(e,e,B.b,e,e,e,e,e,e,e,e,e,e,e)],d),B.G,B.R,e),new A.aIU(f),e,e,e,e,e),e,e)},
 Al(){new A.by(new A.br(),new A.bm()).l0().U(0,new A.aJ8(this),t.P)}}
 A.aJc.prototype={
@@ -63612,7 +63612,7 @@ s=r.c
 s.toString
 q.a=s
 r.aj()},
-G(a){var s=this,r=null,q=A.cB(B.aH,!0,B.k,!0,B.k,B.a1q),p=A.a6(a,r,t.w).w,o=t.p,n=A.m(A.a([A.v(A.bg(!1,s.f,B.o,B.LO,r,r,r,!1,new A.a5L(s),r,r),1)],o),B.e,B.f,B.d),m=A.m(A.a([A.v(A.bg(!1,s.r,B.o,B.qf,r,r,r,!1,new A.a5M(s),r,r),1)],o),B.e,B.f,B.d),l=A.m(A.a([A.v(A.bg(!1,s.w,B.o,B.LK,r,r,r,!1,new A.a5N(s),r,r),1)],o),B.e,B.f,B.d),k=A.m(A.a([A.v(A.bg(!1,s.x,B.o,B.Ls,r,r,r,!1,new A.a5O(s),r,r),1)],o),B.e,B.f,B.d),j=A.m(A.a([A.v(A.bg(!1,s.y,B.o,B.LM,r,r,r,!1,new A.a5P(s),r,r),1)],o),B.e,B.f,B.d),i=A.m(A.a([A.v(A.bg(!1,s.z,B.o,B.M5,r,r,r,!1,new A.a5Q(s),r,r),1)],o),B.e,B.f,B.d),h=A.m(A.a([A.v(A.bg(!1,s.Q,B.o,B.Ma,r,r,r,!1,new A.a5R(s),r,r),1)],o),B.e,B.f,B.d),g=A.v(A.u("Ativo",r,r,r,A.ai(B.w,16,B.v),r,r),1)
+G(a){var s=this,r=null,q=A.cB(B.aH,!0,B.k,!0,B.k,B.a1q),p=A.a6(a,r,t.w).w,o=t.p,n=A.m(A.a([A.v(A.bg(!1,s.f,B.o,B.LP,r,r,r,!1,new A.a5L(s),r,r),1)],o),B.e,B.f,B.d),m=A.m(A.a([A.v(A.bg(!1,s.r,B.o,B.qf,r,r,r,!1,new A.a5M(s),r,r),1)],o),B.e,B.f,B.d),l=A.m(A.a([A.v(A.bg(!1,s.w,B.o,B.LL,r,r,r,!1,new A.a5N(s),r,r),1)],o),B.e,B.f,B.d),k=A.m(A.a([A.v(A.bg(!1,s.x,B.o,B.Ls,r,r,r,!1,new A.a5O(s),r,r),1)],o),B.e,B.f,B.d),j=A.m(A.a([A.v(A.bg(!1,s.y,B.o,B.LN,r,r,r,!1,new A.a5P(s),r,r),1)],o),B.e,B.f,B.d),i=A.m(A.a([A.v(A.bg(!1,s.z,B.o,B.M6,r,r,r,!1,new A.a5Q(s),r,r),1)],o),B.e,B.f,B.d),h=A.m(A.a([A.v(A.bg(!1,s.Q,B.o,B.Mb,r,r,r,!1,new A.a5R(s),r,r),1)],o),B.e,B.f,B.d),g=A.v(A.u("Ativo",r,r,r,A.ai(B.w,16,B.v),r,r),1)
 p=A.c(r,A.eb(A.m(A.a([A.v(A.Y(A.a([n,B.n,m,B.n,l,B.n,k,B.n,j,B.n,i,B.n,h,B.n,A.m(A.a([g,s.e.c===1?A.A(!1,r,!0,B.av,r,!0,r,r,r,r,r,r,r,r,r,new A.a5S(s),r,r,r,r):A.A(!1,r,!0,B.az,r,!0,r,r,r,r,r,r,r,r,r,new A.a5T(s),r,r,r,r)],o),B.e,B.f,B.d),B.n],o),B.e,B.f,B.d),1)],o),B.e,B.f,B.d),B.fm),B.b,r,r,B.bN,r,r,r,B.bZ,B.bP,r,r,p.a.a)
 return A.cm(q,A.bE(B.N,A.a([p,s.e.a!=null?A.c3(r,A.A(!1,r,!0,A.c(r,B.cE,B.b,r,r,B.aD,r,r,r,r,B.m,r,r,r),r,!0,r,r,r,r,r,r,r,r,r,new A.a5U(s,a),r,r,r,r),r,r,r,10,10,r):A.c(r,r,B.b,r,r,r,r,r,r,r,r,r,r,r)],o),B.G,B.R,r),r,A.eZ(B.dO,!1,new A.a5V(s)))}}
 A.a5L.prototype={
@@ -63923,7 +63923,7 @@ s.toString
 q.a=s
 r.aj()},
 G(a){var s=this,r=null,q=A.cB(B.aH,!0,B.k,!0,B.k,B.a0L),p=A.a6(a,r,t.w).w,o=t.p
-p=A.c(r,A.eb(A.m(A.a([A.v(A.Y(A.a([A.u(A.e(s.e.a),r,r,r,r,r,r),A.m(A.a([A.v(A.bg(!1,s.dx,B.o,B.Lz,r,r,r,!1,new A.a6w(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.x,B.o,B.Md,r,r,r,!1,new A.a6x(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.z,B.o,B.LN,r,r,r,!1,new A.a6y(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.at,B.o,B.Lx,r,r,r,!1,new A.a6I(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.CW,B.o,B.LS,r,r,r,!1,new A.a6J(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.ax,B.o,B.Mf,r,r,r,!1,new A.a6K(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.cy,B.o,B.Lt,r,r,r,!1,new A.a6L(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.dy,B.o,B.M3,r,r,r,!1,new A.a6M(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.db,B.o,B.M4,r,r,r,!1,new A.a6N(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.cx,B.o,B.LW,r,r,r,!1,new A.a6O(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.ay,B.o,B.LU,r,r,r,!1,new A.a6P(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.w,B.o,B.LL,r,r,r,!1,new A.a6z(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.r,B.o,B.M9,r,r,r,!1,new A.a6A(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.y,B.o,B.LZ,r,r,r,!1,new A.a6B(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.as,B.o,B.M6,r,r,r,!1,new A.a6C(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.f,B.o,B.M0,r,r,r,!1,new A.a6D(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.Q,B.o,B.LD,r,r,r,!1,new A.a6E(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.ch,B.o,B.LI,r,r,r,!1,new A.a6F(s),r,r),1)],o),B.e,B.f,B.d),B.n],o),B.e,B.f,B.d),1)],o),B.e,B.f,B.d),B.fm),B.b,r,r,B.bN,r,r,r,B.bZ,B.bP,r,r,p.a.a)
+p=A.c(r,A.eb(A.m(A.a([A.v(A.Y(A.a([A.u(A.e(s.e.a),r,r,r,r,r,r),A.m(A.a([A.v(A.bg(!1,s.dx,B.o,B.LA,r,r,r,!1,new A.a6w(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.x,B.o,B.Me,r,r,r,!1,new A.a6x(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.z,B.o,B.LO,r,r,r,!1,new A.a6y(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.at,B.o,B.Lx,r,r,r,!1,new A.a6I(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.CW,B.o,B.LT,r,r,r,!1,new A.a6J(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.ax,B.o,B.Mg,r,r,r,!1,new A.a6K(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.cy,B.o,B.Lt,r,r,r,!1,new A.a6L(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.dy,B.o,B.M4,r,r,r,!1,new A.a6M(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.db,B.o,B.M5,r,r,r,!1,new A.a6N(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.cx,B.o,B.LX,r,r,r,!1,new A.a6O(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.ay,B.o,B.LV,r,r,r,!1,new A.a6P(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.w,B.o,B.LM,r,r,r,!1,new A.a6z(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.r,B.o,B.Ma,r,r,r,!1,new A.a6A(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.y,B.o,B.M_,r,r,r,!1,new A.a6B(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.as,B.o,B.M7,r,r,r,!1,new A.a6C(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.f,B.o,B.M1,r,r,r,!1,new A.a6D(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.Q,B.o,B.LE,r,r,r,!1,new A.a6E(s),r,r),1)],o),B.e,B.f,B.d),B.n,A.m(A.a([A.v(A.bg(!1,s.ch,B.o,B.LJ,r,r,r,!1,new A.a6F(s),r,r),1)],o),B.e,B.f,B.d),B.n],o),B.e,B.f,B.d),1)],o),B.e,B.f,B.d),B.fm),B.b,r,r,B.bN,r,r,r,B.bZ,B.bP,r,r,p.a.a)
 return A.cm(q,A.bE(B.N,A.a([p,s.e.a!=null?A.c3(r,A.A(!1,r,!0,A.c(r,B.cE,B.b,r,r,B.aD,r,r,r,r,B.m,r,r,r),r,!0,r,r,r,r,r,r,r,r,r,new A.a6G(s,a),r,r,r,r),r,r,r,10,10,r):A.c(r,r,B.b,r,r,r,r,r,r,r,r,r,r,r)],o),B.G,B.R,r),r,A.eZ(B.dO,!1,new A.a6H(s)))}}
 A.a6w.prototype={
 $1(a){var s=this.a
@@ -64560,7 +64560,7 @@ n=r.aU
 if(n!=null&&n.length!==0&&n!=="null")++g
 n=r.dx
 m=n!=null
-l=m&&n.length!==0&&n==="TITULAR"?4:5
+l=m&&n.length!==0&&n==="SEM VINCULO"?4:5
 l=A.u("Documentos anexados "+g+"/"+l,3,B.ar,e,B.aF,e,e)
 k=r.fx
 g=k!=null&&k==="1"?1:0
@@ -64572,7 +64572,7 @@ k=r.p2
 if(k!=null&&k==="1")++g
 k=r.ok
 if(k!=null&&k==="1")++g
-n=m&&n.length!==0&&n==="TITULAR"?4:5
+n=m&&n.length!==0&&n==="SEM VINCULO"?4:5
 n=A.u("Documentos aprovados "+g+"/"+n,3,B.ar,e,B.aF,e,e)
 m=r.bj
 m=A.u("Data do pedido: "+(m==null?"":m),3,B.ar,e,B.aF,e,e)
@@ -64655,7 +64655,7 @@ A.aB(this.b,!1).aH(s)},
 $S:0}
 A.a7G.prototype={
 $1(a){var s=this.a.y[this.b],r=s.dx
-return new A.jx(!0,!1,r!=null&&r.length!==0&&r!=="TITULAR",s,null)},
+return new A.jx(!0,!1,r!=null&&r.length!==0&&r!=="SEM VINCULO",s,null)},
 $S:77}
 A.a7T.prototype={
 $0(){},
@@ -64875,7 +64875,7 @@ s=r.c
 s.toString
 q.a=s
 r.aj()},
-G(a){var s,r,q,p,o,n,m,l,k,j=this,i=null,h=A.cB(B.aH,!0,B.k,!0,B.k,B.a1a),g=A.a6(a,i,t.w).w,f=t.p,e=A.m(A.a([A.v(A.bg(!1,j.f,B.o,B.Mh,i,i,i,!1,new A.a8R(j),i,i),1)],f),B.e,B.f,B.d),d=A.m(A.a([A.v(A.bg(!1,j.r,B.o,B.Me,i,i,i,!1,new A.a8S(j),i,i),1)],f),B.e,B.f,B.d),c=A.ub(j.e.b)
+G(a){var s,r,q,p,o,n,m,l,k,j=this,i=null,h=A.cB(B.aH,!0,B.k,!0,B.k,B.a1a),g=A.a6(a,i,t.w).w,f=t.p,e=A.m(A.a([A.v(A.bg(!1,j.f,B.o,B.Mh,i,i,i,!1,new A.a8R(j),i,i),1)],f),B.e,B.f,B.d),d=A.m(A.a([A.v(A.bg(!1,j.r,B.o,B.Mf,i,i,i,!1,new A.a8S(j),i,i),1)],f),B.e,B.f,B.d),c=A.ub(j.e.b)
 c=A.A(!1,i,!0,A.c(i,A.u("Cor",i,i,i,A.ai(A.ub(j.e.b).l(0,B.k)?B.o:B.k,14,B.bQ),i,i),B.b,i,i,new A.a8(c,i,i,B.ei,i,i,B.t),i,i,i,i,B.hX,i,i,i),i,!0,i,i,i,i,i,i,i,i,i,new A.a8T(j),i,i,i,i)
 s=j.y
 r=s?B.aA:A.c(i,i,B.b,i,i,i,i,i,i,i,i,i,i,i)
@@ -65132,7 +65132,9 @@ s.cx.saM(0,B.h.k(r==null?0:r))
 r=s.r.go
 s.cy.saM(0,B.h.k(r==null?0:r))
 r=s.r.dx
-if(r==null)r=""
+if(r==="PAI")r="VINCULO"
+else if(r==="TITULAR")r="SEM VINCULO"
+else if(r==null)r=""
 s.db.saM(0,r)
 r=s.r.b4
 if(r==null)r=""
@@ -65146,20 +65148,20 @@ s.aj()},
 G(a6){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1=this,a2=null,a3=A.cB(B.aH,!0,B.k,!0,B.k,B.CB),a4=A.a6(a6,a2,t.w).w,a5=a1.r.a
 a5=A.u("Id: "+A.e(a5==null?"":a5),a2,a2,a2,B.aB,a2,a2)
 s=t.p
-r=A.m(A.a([A.v(A.bg(!1,a1.w,B.o,B.M2,a2,a2,a2,!1,new A.a9V(a1),a2,a2),1)],s),B.e,B.f,B.d)
-q=A.m(A.a([A.v(A.bg(!1,a1.x,B.o,B.Ly,a2,a2,a2,!1,new A.a9W(a1),a2,a2),1)],s),B.e,B.f,B.d)
-p=A.m(A.a([A.v(A.bg(!1,a1.y,B.o,B.LC,a2,a2,a2,!1,new A.a9X(a1),a2,a2),1)],s),B.e,B.f,B.d)
+r=A.m(A.a([A.v(A.bg(!1,a1.w,B.o,B.M3,a2,a2,a2,!1,new A.a9V(a1),a2,a2),1)],s),B.e,B.f,B.d)
+q=A.m(A.a([A.v(A.bg(!1,a1.x,B.o,B.Lz,a2,a2,a2,!1,new A.a9W(a1),a2,a2),1)],s),B.e,B.f,B.d)
+p=A.m(A.a([A.v(A.bg(!1,a1.y,B.o,B.LD,a2,a2,a2,!1,new A.a9X(a1),a2,a2),1)],s),B.e,B.f,B.d)
 o=A.m(A.a([A.v(A.bg(!1,a1.z,B.o,B.qf,a2,a2,a2,!1,new A.aa7(a1),a2,a2),1)],s),B.e,B.f,B.d)
-n=A.m(A.a([A.v(A.bg(!1,a1.Q,B.o,B.LJ,a2,a2,a2,!1,new A.aah(a1),a2,new A.aai(a1,a6)),1)],s),B.e,B.f,B.d)
+n=A.m(A.a([A.v(A.bg(!1,a1.Q,B.o,B.LK,a2,a2,a2,!1,new A.aah(a1),a2,new A.aai(a1,a6)),1)],s),B.e,B.f,B.d)
 m=A.m(A.a([A.v(A.bg(!1,a1.as,B.o,B.Lr,a2,a2,a2,!1,new A.aaj(a1),a2,new A.aak(a1,a6)),1)],s),B.e,B.f,B.d)
-l=A.m(A.a([A.v(A.bg(!1,a1.at,B.o,B.Mc,a2,a2,a2,!1,new A.aal(a1),a2,new A.aam(a1,a6)),1)],s),B.e,B.f,B.d)
-k=A.m(A.a([A.v(A.bg(!1,a1.ax,B.o,B.LX,a2,a2,a2,!1,new A.aan(a1),a2,new A.a9Y(a1,a6)),1)],s),B.e,B.f,B.d)
-j=A.m(A.a([A.v(A.bg(!1,a1.ay,B.o,B.LY,a2,a2,a2,!1,new A.a9Z(a1),a2,a2),1)],s),B.e,B.f,B.d)
-i=A.m(A.a([A.v(A.bg(!1,a1.ch,B.o,B.M7,a2,a2,a2,!1,new A.aa_(a1),a2,a2),1)],s),B.e,B.f,B.d)
-h=A.m(A.a([A.v(A.bg(!1,a1.CW,B.o,B.LB,a2,a2,a2,!1,new A.aa0(a1),a2,a2),1)],s),B.e,B.f,B.d)
-g=A.m(A.a([A.v(A.bg(!1,a1.cx,B.o,B.LF,a2,a2,a2,!1,new A.aa1(a1),a2,a2),1)],s),B.e,B.f,B.d)
-f=A.m(A.a([A.v(A.bg(!1,a1.cy,B.o,B.LE,a2,a2,a2,!1,new A.aa2(a1),a2,a2),1)],s),B.e,B.f,B.d)
-e=A.m(A.a([A.v(A.bg(!1,a1.db,B.o,B.Mg,a2,a2,a2,!1,new A.aa3(a1),a2,a2),1)],s),B.e,B.f,B.d)
+l=A.m(A.a([A.v(A.bg(!1,a1.at,B.o,B.Md,a2,a2,a2,!1,new A.aal(a1),a2,new A.aam(a1,a6)),1)],s),B.e,B.f,B.d)
+k=A.m(A.a([A.v(A.bg(!1,a1.ax,B.o,B.LY,a2,a2,a2,!1,new A.aan(a1),a2,new A.a9Y(a1,a6)),1)],s),B.e,B.f,B.d)
+j=A.m(A.a([A.v(A.bg(!1,a1.ay,B.o,B.LZ,a2,a2,a2,!1,new A.a9Z(a1),a2,a2),1)],s),B.e,B.f,B.d)
+i=A.m(A.a([A.v(A.bg(!1,a1.ch,B.o,B.M8,a2,a2,a2,!1,new A.aa_(a1),a2,a2),1)],s),B.e,B.f,B.d)
+h=A.m(A.a([A.v(A.bg(!1,a1.CW,B.o,B.LC,a2,a2,a2,!1,new A.aa0(a1),a2,a2),1)],s),B.e,B.f,B.d)
+g=A.m(A.a([A.v(A.bg(!1,a1.cx,B.o,B.LG,a2,a2,a2,!1,new A.aa1(a1),a2,a2),1)],s),B.e,B.f,B.d)
+f=A.m(A.a([A.v(A.bg(!1,a1.cy,B.o,B.LF,a2,a2,a2,!1,new A.aa2(a1),a2,a2),1)],s),B.e,B.f,B.d)
+e=A.m(A.a([A.v(A.bg(!1,a1.db,B.o,B.Ly,a2,a2,a2,!1,new A.aa3(a1),a2,a2),1)],s),B.e,B.f,B.d)
 d=A.v(A.u("Documento receita m\xe9dica",a2,a2,a2,A.ai(B.w,16,B.v),a2,a2),1)
 d=A.m(A.a([d,a1.r.fx==="1"?A.A(!1,a2,!0,B.av,a2,!0,a2,a2,a2,a2,a2,a2,a2,a2,a2,new A.aa4(a1),a2,a2,a2,a2):A.A(!1,a2,!0,B.az,a2,!0,a2,a2,a2,a2,a2,a2,a2,a2,a2,new A.aa5(a1),a2,a2,a2,a2)],s),B.e,B.f,B.d)
 c=A.v(A.u("Documento comprovante de endere\xe7o",a2,a2,a2,A.ai(B.w,16,B.v),a2,a2),1)
@@ -66771,7 +66773,7 @@ o=s.aU
 if(o!=null&&o.length!==0&&o!=="null")++g
 o=s.dx
 n=o!=null
-m=n&&o.length!==0&&o==="TITULAR"?4:5
+m=n&&o.length!==0&&o==="SEM VINCULO"?4:5
 m=A.u("Documentos anexados "+g+"/"+m,3,B.ar,f,B.aF,f,f)
 l=s.fx
 g=l!=null&&l==="1"?1:0
@@ -66783,7 +66785,7 @@ l=s.p2
 if(l!=null&&l==="1")++g
 l=s.ok
 if(l!=null&&l==="1")++g
-o=n&&o.length!==0&&o==="TITULAR"?4:5
+o=n&&o.length!==0&&o==="SEM VINCULO"?4:5
 o=A.u("Documentos aprovados "+g+"/"+o,3,B.ar,f,B.aF,f,f)
 n=s.bj
 n=A.u("Data do pedido: "+(n==null?"":n),3,B.ar,f,B.aF,f,f)
@@ -66839,7 +66841,7 @@ A.aB(this.b,!1).aH(s)},
 $S:0}
 A.aRJ.prototype={
 $1(a){var s=this.a.y[this.b],r=s.dx
-return new A.jx(!1,!1,r!=null&&r.length!==0&&r!=="TITULAR",s,null)},
+return new A.jx(!1,!1,r!=null&&r.length!==0&&r!=="SEM VINCULO",s,null)},
 $S:77}
 A.aRQ.prototype={
 $0(){var s=this.a,r=s.y[this.b].z
@@ -117863,58 +117865,58 @@ B.T5=new A.ix(4,B.C,B.ki)
 B.lF=new A.bn(null,null,null,"",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.T5,!0,null,null,null)
 B.Lw=new A.bn(null,null,null,"Data de t\xe9rmino do cupom",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
 B.Lx=new A.bn(null,null,null,"Peso M\xe1ximo do Pacote",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.Ly=new A.bn(null,null,null,"CPF receita",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.Lz=new A.bn(null,null,null,"Nome Servi\xe7o para Cliente",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.LA=new A.bn(null,null,null,"Descri\xe7\xe3o do cupom",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.LB=new A.bn(null,null,null,"Valor descontos",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.LC=new A.bn(null,null,null,"C\xf3digo rastreio",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.LD=new A.bn(null,null,null,"Frete Gr\xe1tis para os CEPs",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.LE=new A.bn(null,null,null,"Valor total do pedido",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.Ly=new A.bn(null,null,null,"Grau de parentesco (VINCULO / SEM VINCULO)",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.Lz=new A.bn(null,null,null,"CPF receita",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.LA=new A.bn(null,null,null,"Nome Servi\xe7o para Cliente",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.LB=new A.bn(null,null,null,"Descri\xe7\xe3o do cupom",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.LC=new A.bn(null,null,null,"Valor descontos",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.LD=new A.bn(null,null,null,"C\xf3digo rastreio",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.LE=new A.bn(null,null,null,"Frete Gr\xe1tis para os CEPs",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.LF=new A.bn(null,null,null,"Valor total do pedido",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
 B.qe=new A.bn(null,null,null,"cpf",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.LF=new A.bn(null,null,null,"Valor do frete",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.LG=new A.bn(null,null,null,"C\xf3digo do cupom",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.LH=new A.bn(null,null,null,"data de nascimento (DD-MM-AAAA)",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.LI=new A.bn(null,null,null,"CEPs excluir entrega",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.LJ=new A.bn(null,null,null,"Id endere\xe7o entrega",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.LK=new A.bn(null,null,null,"Taxa Juros",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.LL=new A.bn(null,null,null,"Valor Extra",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.LM=new A.bn(null,null,null,"Parcela M\xednima",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.LN=new A.bn(null,null,null,"URL Rastreamento",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.LO=new A.bn(null,null,null,"Nome Meio Pagamento",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.LP=new A.bn(null,null,null,"telefone",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.LQ=new A.bn(null,null,null,"Total de cupons dispon\xedveis",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.LR=new A.bn(null,null,null,"senha",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.LS=new A.bn(null,null,null,"Largura M\xe1xima do Pacote",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.LG=new A.bn(null,null,null,"Valor do frete",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.LH=new A.bn(null,null,null,"C\xf3digo do cupom",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.LI=new A.bn(null,null,null,"data de nascimento (DD-MM-AAAA)",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.LJ=new A.bn(null,null,null,"CEPs excluir entrega",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.LK=new A.bn(null,null,null,"Id endere\xe7o entrega",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.LL=new A.bn(null,null,null,"Taxa Juros",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.LM=new A.bn(null,null,null,"Valor Extra",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.LN=new A.bn(null,null,null,"Parcela M\xednima",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.LO=new A.bn(null,null,null,"URL Rastreamento",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.LP=new A.bn(null,null,null,"Nome Meio Pagamento",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.LQ=new A.bn(null,null,null,"telefone",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.LR=new A.bn(null,null,null,"Total de cupons dispon\xedveis",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.LS=new A.bn(null,null,null,"senha",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.LT=new A.bn(null,null,null,"Largura M\xe1xima do Pacote",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
 B.qb=new A.bv(B.pZ,null,B.x,null,null)
 B.jW=new A.Z3(B.K)
-B.LT=new A.bn(null,null,null,null,null,null,null,null,null,"Busque o nome do m\xe9dico",null,null,null,null,null,null,null,null,null,null,null,null,null,B.qb,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.jW,!0,null,null,null)
-B.LU=new A.bn(null,null,null,"Acr\xe9scimos ou Descontos",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.LU=new A.bn(null,null,null,null,null,null,null,null,null,"Busque o nome do m\xe9dico",null,null,null,null,null,null,null,null,null,null,null,null,null,B.qb,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.jW,!0,null,null,null)
+B.LV=new A.bn(null,null,null,"Acr\xe9scimos ou Descontos",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
 B.eb=new A.k9(B.nV,B.ki)
-B.LV=new A.bn(null,null,null,null,null,null,null,null,null,"C\xf3digo",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.eb,null,null,B.eb,null,!0,null,null,null)
-B.LW=new A.bn(null,null,null,"Adicionar Custo de Prepara\xe7\xe3o",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.LX=new A.bn(null,null,null,"Id frete",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.LY=new A.bn(null,null,null,"Soma dos valores dos produtos",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.LZ=new A.bn(null,null,null,"Nota de velocidade",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.M_=new A.bn(null,null,null,null,null,null,null,null,null,"Busque pelo nome do produto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.qb,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.jW,!0,null,null,null)
-B.M0=new A.bn(null,null,null,"Logotipo",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.M1=new A.bn(null,null,null,"Data de in\xedcio do cupom",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.M2=new A.bn(null,null,null,"Id carrinho",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.M3=new A.bn(null,null,null,"Valor M\xednimo para Frete Gratuito",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.LW=new A.bn(null,null,null,null,null,null,null,null,null,"C\xf3digo",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.eb,null,null,B.eb,null,!0,null,null,null)
+B.LX=new A.bn(null,null,null,"Adicionar Custo de Prepara\xe7\xe3o",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.LY=new A.bn(null,null,null,"Id frete",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.LZ=new A.bn(null,null,null,"Soma dos valores dos produtos",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.M_=new A.bn(null,null,null,"Nota de velocidade",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.M0=new A.bn(null,null,null,null,null,null,null,null,null,"Busque pelo nome do produto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.qb,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.jW,!0,null,null,null)
+B.M1=new A.bn(null,null,null,"Logotipo",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.M2=new A.bn(null,null,null,"Data de in\xedcio do cupom",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.M3=new A.bn(null,null,null,"Id carrinho",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.M4=new A.bn(null,null,null,"Valor M\xednimo para Frete Gratuito",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
 B.qf=new A.bn(null,null,null,"Observa\xe7\xe3o",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.M4=new A.bn(null,null,null,"Valor M\xednimo para Desconto",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.M5=new A.bn(null,null,null,"Parcelamento Sem Juros",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.M6=new A.bn(null,null,null,"Tempo em Transito",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.M7=new A.bn(null,null,null,"Valor taxas de imposto",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.M8=new A.bn(null,null,null,"email",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.M9=new A.bn(null,null,null,"Prazo Extra",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.Ma=new A.bn(null,null,null,"Desconto",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.Mb=new A.bn(null,null,null,"Nome do cupom",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.Mc=new A.bn(null,null,null,"Id pedido status (Click)",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.Md=new A.bn(null,null,null,"Nome Servi\xe7o",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.M5=new A.bn(null,null,null,"Valor M\xednimo para Desconto",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.M6=new A.bn(null,null,null,"Parcelamento Sem Juros",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.M7=new A.bn(null,null,null,"Tempo em Transito",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.M8=new A.bn(null,null,null,"Valor taxas de imposto",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.M9=new A.bn(null,null,null,"email",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.Ma=new A.bn(null,null,null,"Prazo Extra",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.Mb=new A.bn(null,null,null,"Desconto",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.Mc=new A.bn(null,null,null,"Nome do cupom",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.Md=new A.bn(null,null,null,"Id pedido status (Click)",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.Me=new A.bn(null,null,null,"Nome Servi\xe7o",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
 B.a4W=new A.bn(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null)
-B.Me=new A.bn(null,null,null,"Id Modelo email",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.Mf=new A.bn(null,null,null,"Altura M\xe1xima do Pacote",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
-B.Mg=new A.bn(null,null,null,"Grau de parentesco",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.Mf=new A.bn(null,null,null,"Id Modelo email",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
+B.Mg=new A.bn(null,null,null,"Altura M\xe1xima do Pacote",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
 B.Mh=new A.bn(null,null,null,"Nome Pedido Status",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
 B.Mi=new A.bn(null,null,null,"Total de cupons dispon\xedveis por usu\xe1rio",B.J,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.p,null,null,B.p,B.p,!0,null,null,null)
 B.Ml=new A.fh(0,0.1,B.ag)
