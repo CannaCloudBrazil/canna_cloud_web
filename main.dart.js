@@ -54313,7 +54313,7 @@ h.a=null
 q=3
 l=t.N
 s=6
-return A.F(n.bk("POST",A.bi(u.z,0,null),A.Y(["Content-Type","application/json"],l,l),B.k.bt(A.Y(["email",c,"sender","noreply@cannacloud.com.br","assunto",a,"corpo",b,"host","email-ssl.com.br","usuario","datasintese2","senha","upqbOZWs8551","porta",587,"SSL",!1],l,t.K)),null),$async$hS)
+return A.F(n.bk("POST",A.bi(u.z,0,null),A.Y(["Content-Type","application/json"],l,l),B.k.bt(A.Y(["email",c,"sender","noreply@cannacloud.com.br","assunto",a,"corpo",b,"host","smtplw.com.br","usuario","datasintese2","senha","upqbOZWs8551","porta",587,"SSL",!1],l,t.K)),null),$async$hS)
 case 6:k=a0
 h.a=k
 new A.bH().bB(0,new A.ahb(h,d),new A.ahc(h,d),new A.ahd(h,d),new A.ahe(h,d),new A.ahf(h,e),new A.ahg(h,d),k.b)
@@ -54351,7 +54351,7 @@ h.a=null
 q=3
 l=t.N
 s=6
-return A.F(n.bk("POST",A.bi(u.z,0,null),A.Y(["Content-Type","application/json"],l,l),B.k.bt(A.Y(["email",d,"cc",b,"sender","noreply@cannacloud.com.br","assunto",a,"corpo",c,"host","email-ssl.com.br","usuario","datasintese2","senha","upqbOZWs8551","porta",587,"SSL",!1],l,t.K)),null),$async$wf)
+return A.F(n.bk("POST",A.bi(u.z,0,null),A.Y(["Content-Type","application/json"],l,l),B.k.bt(A.Y(["email",d,"cc",b,"sender","noreply@cannacloud.com.br","assunto",a,"corpo",c,"host","smtplw.com.br","usuario","datasintese2","senha","upqbOZWs8551","porta",587,"SSL",!1],l,t.K)),null),$async$wf)
 case 6:k=a1
 h.a=k
 new A.bH().bB(0,new A.ah5(h,e),new A.ah6(h,e),new A.ah7(h,e),new A.ah8(h,e),new A.ah9(h,f),new A.aha(h,e),k.b)
