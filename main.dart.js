@@ -60518,7 +60518,7 @@ A.b1(s,"Cupom expirado!","")
 m.go=null
 return}}s=m.go
 r=s.CW
-if(r!==0){if(r!=null){s=A.bhW(s.x).length
+if(!(r===0||s.dx===0)){if(r!=null){s=A.bhW(s.x).length
 r=m.go
 q=r.CW
 q.toString
