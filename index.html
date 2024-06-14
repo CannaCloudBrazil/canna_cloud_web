@@ -29,18 +29,41 @@
   <!-- Favicon -->
   <link rel="icon" type="image/png" href="favicon.png"/>
 
-  <title>cannabis_project</title>
+  <title>Cannacloud</title>
   <link rel="manifest" href="manifest.json">
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "1192363961";
+    const serviceWorkerVersion = "3904544906";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
 <!--  <script src="//media.twiliocdn.com/sdk/js/video/releases/2.14.0/twilio-video.min.js"></script>-->
 </head>
 <body>
+  <!-- This script installs service_worker.js to provide PWA functionality to
+         application. For more information, see:
+         https://developers.google.com/web/fundamentals/primers/service-workers -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('flutter-first-frame', function () {
+        navigator.serviceWorker.register('flutter_service_worker.js?v=3904544906');
+      });
+    }
+  </script>
+  <!-- IMPORTANT: load pdfjs files -->
+  <script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@2.12.313/build/pdf.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    pdfjsLib.GlobalWorkerOptions.workerSrc = "https://cdn.jsdelivr.net/npm/pdfjs-dist@2.12.313/build/pdf.worker.min.js";
+    pdfRenderOptions = {
+      // where cmaps are downloaded from
+      cMapUrl: 'https://cdn.jsdelivr.net/npm/pdfjs-dist@2.12.313/cmaps/',
+      // The cmaps are compressed in the case
+      cMapPacked: true,
+      // any other options for pdfjsLib.getDocument.
+      // params: {}
+    }
+  </script>
   <script>
     window.addEventListener('load', function(ev) {
       // Download main.dart.js
@@ -55,20 +78,6 @@
         }
       });
     });
-  </script>
-
-  <!-- IMPORTANT: load pdfjs files -->
-  <script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@2.12.313/build/pdf.js" type="text/javascript"></script>
-  <script type="text/javascript">
-    pdfjsLib.GlobalWorkerOptions.workerSrc = "https://cdn.jsdelivr.net/npm/pdfjs-dist@2.12.313/build/pdf.worker.min.js";
-    pdfRenderOptions = {
-      // where cmaps are downloaded from
-      cMapUrl: 'https://cdn.jsdelivr.net/npm/pdfjs-dist@2.12.313/cmaps/',
-      // The cmaps are compressed in the case
-      cMapPacked: true,
-      // any other options for pdfjsLib.getDocument.
-      // params: {}
-    }
   </script>
   <script src="main.dart.js" type="application/javascript"></script>
 </body>
