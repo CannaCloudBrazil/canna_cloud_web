@@ -34,11 +34,20 @@
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = '"4257613457"';
+    var serviceWorkerVersion = '"77660214"';
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
 <!--  <script src="//media.twiliocdn.com/sdk/js/video/releases/2.14.0/twilio-video.min.js"></script>-->
+
+  <style>
+    body {
+      background-color: #4CAF50; /* Verde */
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+    }
+  </style>
 </head>
 <body>
   <script>
@@ -56,7 +65,7 @@ _flutter.buildConfig = {"engineRevision":"edd8546116457bdf1c5bdfb13ecb9463d2bb5e
 
       _flutter.loader.load({
         serviceWorker: {
-          serviceWorkerVersion: "4257613457",
+          serviceWorkerVersion: "77660214",
         },
         onEntrypointLoaded: function(engineInitializer) {
           engineInitializer.initializeEngine().then(function(appRunner) {
