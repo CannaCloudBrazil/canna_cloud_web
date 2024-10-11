@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "c9be0dca7b891b57576bce830c683112",
-"assets/AssetManifest.bin.json": "c728c05ae4ef11db16861fa883709037",
-"assets/AssetManifest.json": "da90168898181559589fa048df60ea7e",
+const RESOURCES = {"assets/AssetManifest.bin": "e719755282b5df07008ba60fdfddc450",
+"assets/AssetManifest.bin.json": "b32d313054fa6517014d2027dc82c376",
+"assets/AssetManifest.json": "4d1864a0a2577dfc3b7c6e31931b1eb5",
 "assets/assets/icon/AddressProfileIcon.png": "f9f9004192b48949c174c588f48fafa7",
 "assets/assets/icon/BackIcon.png": "b292f226dcdd04dbe276a30fa519c119",
 "assets/assets/icon/CupomIcon.png": "91d7c75000bfbe88ffbd5fd7ffde4969",
@@ -23,6 +23,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "c9be0dca7b891b57576bce830c683112
 "assets/assets/icon/Search.png": "a1e514829cf54f7fd90fd0a0eaa581ee",
 "assets/assets/icon/ShoppingIcon.png": "87d1f22ac87b316e6c0f91bb25f4409c",
 "assets/assets/icon/UserIcon.png": "c7e8487fb6460a3cdb2f6c9a1ac2c6b1",
+"assets/assets/icon/whatsapp.png": "1bcf7c5585e5f2971eb19808425861ca",
 "assets/assets/images/cbd-full-spectrum-tincture-10000mg.jpg": "d3cc736dcf44a1190cace6b89e140861",
 "assets/assets/images/cbd-natural-tintcture-3000mg.jpg": "20f79f1816cedbc434e0b77b3e8239a3",
 "assets/assets/images/cbd-pain-cream-menthol.jpg": "7621d4ee1f3ac8a619f8a4d1156b8c8d",
@@ -92,17 +93,17 @@ const RESOURCES = {"assets/AssetManifest.bin": "c9be0dca7b891b57576bce830c683112
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "favicon.png": "7eeb6ba765f95748074424cfb70b3995",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
-"flutter_bootstrap.js": "70875fa0ac6698665f8a84370f3168f8",
+"flutter_bootstrap.js": "820395e4ff3b9896eb2c604241f7825d",
 "icons/2-512.png": "ab5721a56767d226683a3f91cb5ac271",
 "icons/2.png": "aaff681acfc2bd167f3b5163b5c9006c",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "de495e4a1d43529f191b875669bf080b",
-"/": "de495e4a1d43529f191b875669bf080b",
-"index.html.bak": "1c12f59169dbe66efd3c4dc0323f21d4",
-"main.dart.js": "74157165aa5b5dce3f3c66d4602a9c0d",
+"index.html": "3a1ccafe5e20e288744a6bf01cfcfabc",
+"/": "3a1ccafe5e20e288744a6bf01cfcfabc",
+"index.html.bak": "de495e4a1d43529f191b875669bf080b",
+"main.dart.js": "b6bb416b59aa6c0fb8299dd73b0d9426",
 "manifest.json": "b34a2743e7cfb629c5bd05db8a1063a9",
 "version.json": "99eeaccf58ea55e48740054eed75bba2"};
 // The application shell files that are downloaded before a service worker can
