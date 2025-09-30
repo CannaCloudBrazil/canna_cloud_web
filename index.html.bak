@@ -35,7 +35,7 @@
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = '"3820641165"';
+    var serviceWorkerVersion = '"1508407214"';
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
@@ -94,7 +94,7 @@ _flutter.buildConfig = {"engineRevision":"dd93de6fb1776398bf586cbd477deade1391c7
 
       _flutter.loader.load({
         serviceWorker: {
-          serviceWorkerVersion: "3820641165",
+          serviceWorkerVersion: "1508407214",
         },
         onEntrypointLoaded: function(engineInitializer) {
           engineInitializer.initializeEngine().then(function(appRunner) {
@@ -165,5 +165,6 @@ _flutter.buildConfig = {"engineRevision":"dd93de6fb1776398bf586cbd477deade1391c7
       });
     };
   </script>
+  <script src="https://accounts.google.com/gsi/client" async defer></script>
 </body>
 </html>
